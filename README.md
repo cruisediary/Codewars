@@ -3,13 +3,14 @@ Codewars kata practice
 
 ![badge](https://www.codewars.com/users/cruisediary/badges/large)
 
-Progress
+Highest Progress
+
 Rank: 4 kyu
 
-Honor: 1,169
+Honor: 1,214
 
-Leaderboard Position: #8,847
+Leaderboard Position: #8,299
 
-Honor Percentile: **Top 4.526%**
+Honor Percentile: **Top 4.242%**
 
-Total Completed Kata: 148
+Total Completed Kata: 152
