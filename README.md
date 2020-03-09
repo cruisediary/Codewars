@@ -5,12 +5,12 @@ Codewars kata practice
 
 Highest Progress
 
-Rank: 4 kyu
+Rank: 3 kyu
 
-Honor: 1,214
+Honor: 1,561
 
-Leaderboard Position: #8,299
+Leaderboard Position: #5,360
 
-Honor Percentile: **Top 4.242%**
+Honor Percentile: **Top 2.734%**
 
-Total Completed Kata: 152
+Total Completed Kata: 179
