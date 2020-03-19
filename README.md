@@ -61,3 +61,9 @@ Total Completed Kata: 215
 * [Sum of nested numbers](6kyu/Sum%20of%20nested%20numbers/Sum%20of%20nested%20numbers.py) - [Codewars](https://www.codewars.com/kata/5845e6a7ae92e294f4000315/train/python)
 * [Yea No Yes No](6kyu/Yes%20No%20Yes%20No/Yes%20No%20Yes%20No.py) - [Codewars](https://www.codewars.com/kata/573c84bf0addf9568d001299/train/python)
 * [first character that repeats](6kyu/first%20character%20that%20repeats/first%20character%20that%20repeats.py) - [Codewars](https://www.codewars.com/kata/54f9f4d7c41722304e000bbb/train/python)
+
+### <a name="5kyu">5 kyu</a>
+* [Base64 Encoding](5kyu/Base64%20Encoding/Base64%20Encoding.swift) - [Codewars](https://www.codewars.com/kata/5270f22f862516c686000161/train/swift)
+* [Binary Tree Traversal](5kyu/Binary%20Tree%20Traversal/Binary%20Tree%20Traversal.js) - [Codewars](https://www.codewars.com/kata/5268956c10342831a8000135/train/javascript)
+* [The Clockwise Spiral](5kyu/The%20Clockwise%20Spiral/The%20Clockwise%20Spiral.py) - [Codewars](https://www.codewars.com/kata/536a155256eb459b8700077e/train/python)
+* [Tree to list](5kyu/Tree%20to%20list/Tree%20to%20list.py) - [Codewars](https://www.codewars.com/kata/56ef9790740d30a7ff000199/train/python)
