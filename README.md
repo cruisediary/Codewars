@@ -72,3 +72,8 @@ Total Completed Kata: 215
 * [Permutations](4kyu/Permutations/Permutations.py) - [Codewars](https://www.codewars.com/kata/5254ca2719453dcc0b00027d/train/python)
 * [Roman Numerals Helper](4kyu/Roman%20Numerals%20Helper/Roman%20Numerals%20Helper.swift) - [Codewars](https://www.codewars.com/kata/51b66044bce5799a7f000003/train/swift)
 * [Sum of Intervals](4kyu/Sum%20of%20Intervals/Sum%20of%20Intervals.py) - [Codewars](https://www.codewars.com/kata/52b7ed099cdc285c300001cd/train/python)
+
+### <a  name="3kyu">3 kyu</a>
+* [Make a spiral](3kyu/Make%20a%20spiral/Make%20a%20spiral.py) - [Codewars](https://www.codewars.com/kata/534e01fbbb17187c7e0000c6/train/python)
+* [Screen Locking Patterns](3kyu/Screen%20Locking%20Patterns/Screen%20Locking%20Patterns.swift) - [Codewars](https://www.codewars.com/kata/585894545a8a07255e0002f1/train/swift)
+
