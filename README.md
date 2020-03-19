@@ -67,3 +67,8 @@ Total Completed Kata: 215
 * [Binary Tree Traversal](5kyu/Binary%20Tree%20Traversal/Binary%20Tree%20Traversal.js) - [Codewars](https://www.codewars.com/kata/5268956c10342831a8000135/train/javascript)
 * [The Clockwise Spiral](5kyu/The%20Clockwise%20Spiral/The%20Clockwise%20Spiral.py) - [Codewars](https://www.codewars.com/kata/536a155256eb459b8700077e/train/python)
 * [Tree to list](5kyu/Tree%20to%20list/Tree%20to%20list.py) - [Codewars](https://www.codewars.com/kata/56ef9790740d30a7ff000199/train/python)
+
+### <a name="4kyu">4 kyu</a>
+* [Permutations](4kyu/Permutations/Permutations.py) - [Codewars](https://www.codewars.com/kata/5254ca2719453dcc0b00027d/train/python)
+* [Roman Numerals Helper](4kyu/Roman%20Numerals%20Helper/Roman%20Numerals%20Helper.swift) - [Codewars](https://www.codewars.com/kata/51b66044bce5799a7f000003/train/swift)
+* [Sum of Intervals](4kyu/Sum%20of%20Intervals/Sum%20of%20Intervals.py) - [Codewars](https://www.codewars.com/kata/52b7ed099cdc285c300001cd/train/python)
