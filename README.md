@@ -53,6 +53,7 @@ Total Completed Kata: 215
 * [Backspaces in string](6kyu/Backspaces%20in%20string/Backspaces%20in%20string.py) - [Codewars](https://www.codewars.com/kata/5727bb0fe81185ae62000ae3/train/python)
 * [Binary Tree Compare](6kyu/Binary%20Tree%20Compare/Binary%20Tree%20Compare.py) - [Codewars](https://www.codewars.com/kata/55847fcd3e7dadc9f800005f/train/python)
 * [Find the odd int](6kyu/Find%20the%20odd%20int/Find%20the%20odd%20int.py) - [Codewars](https://www.codewars.com/kata/54da5a58ea159efa38000836/train/python)
+* [Get recursion limit](6kyu/Get%20recursion%20limit/Get%20recursion%20limit.py) - [Codewars](https://www.codewars.com/kata/5a1e1b69697598459d000057/train/python)
 * [N-th Fibonacci](6kyu/N-thFibonacci/N-thFibonacci.py) - [Codewars](https://www.codewars.com/kata/522551eee9abb932420004a0/train/python)
 * [Pokemon Damage Calculator](6kyu/Pokemon%20Damage%20Calculator/Pokemon%20Damage%20Calculator.py) - [Codewars](https://www.codewars.com/kata/536e9a7973130a06eb000e9f/train/python)
 * [Roman Numerals Decoder](6kyu/Roman%20Numerals%20Decoder/Roman%20Numerals%20Decoder.swift) - [Codewars](https://www.codewars.com/kata/51b6249c4612257ac0000005/train/swift)
