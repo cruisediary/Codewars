@@ -77,3 +77,4 @@ Total Completed Kata: 215
 * [Make a spiral](3kyu/Make%20a%20spiral/Make%20a%20spiral.py) - [Codewars](https://www.codewars.com/kata/534e01fbbb17187c7e0000c6/train/python)
 * [Screen Locking Patterns](3kyu/Screen%20Locking%20Patterns/Screen%20Locking%20Patterns.swift) - [Codewars](https://www.codewars.com/kata/585894545a8a07255e0002f1/train/swift)
 
+Support codewars 🌟 [stargazers](https://github.com/cruisediary/Codewars/stargazers)
