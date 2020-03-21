@@ -68,6 +68,7 @@ Total Completed Kata: 215
 ### <a name="5kyu">5 kyu</a>
 * [Base64 Encoding](5kyu/Base64%20Encoding/Base64%20Encoding.swift) - [Codewars](https://www.codewars.com/kata/5270f22f862516c686000161/train/swift)
 * [Binary Tree Traversal](5kyu/Binary%20Tree%20Traversal/Binary%20Tree%20Traversal.js) - [Codewars](https://www.codewars.com/kata/5268956c10342831a8000135/train/javascript)
+* [Mean Square Error](5kyu/Mean%20Square%20Error/Mean%20Square%20Error.py) - [Codewars](https://www.codewars.com/kata/51edd51599a189fe7f000015/train/python)
 * [The Clockwise Spiral](5kyu/The%20Clockwise%20Spiral/The%20Clockwise%20Spiral.py) - [Codewars](https://www.codewars.com/kata/536a155256eb459b8700077e/train/python)
 * [Tree to list](5kyu/Tree%20to%20list/Tree%20to%20list.py) - [Codewars](https://www.codewars.com/kata/56ef9790740d30a7ff000199/train/python)
 
