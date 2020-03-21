@@ -53,6 +53,7 @@ Total Completed Kata: 215
 * [Autocomplete! Yay!](6kyu/Autocomplete!%20Yay!/Autocomplete!%20Yay!.py) - [Codewars](https://www.codewars.com/kata/5389864ec72ce03383000484/train/python)
 * [Backspaces in string](6kyu/Backspaces%20in%20string/Backspaces%20in%20string.py) - [Codewars](https://www.codewars.com/kata/5727bb0fe81185ae62000ae3/train/python)
 * [Binary Tree Compare](6kyu/Binary%20Tree%20Compare/Binary%20Tree%20Compare.py) - [Codewars](https://www.codewars.com/kata/55847fcd3e7dadc9f800005f/train/python)
+* [Common array elements](6kyu/Common%20array%20elements/Common%20array%20elements.py) - [Codewars](https://www.codewars.com/kata/5a6225e5d8e145b540000127/train/python)
 * [Find the odd int](6kyu/Find%20the%20odd%20int/Find%20the%20odd%20int.py) - [Codewars](https://www.codewars.com/kata/54da5a58ea159efa38000836/train/python)
 * [Get recursion limit](6kyu/Get%20recursion%20limit/Get%20recursion%20limit.py) - [Codewars](https://www.codewars.com/kata/5a1e1b69697598459d000057/train/python)
 * [N-th Fibonacci](6kyu/N-thFibonacci/N-thFibonacci.py) - [Codewars](https://www.codewars.com/kata/522551eee9abb932420004a0/train/python)
